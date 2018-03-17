@@ -3,3 +3,4 @@ Check out the example below for formatting guidelines.
 
 * [Smalltalk Project](https://github.com/lizzybrooks/somerepo) by Ms. Brooks. 
 * [Dannys' Java Project](https://github.com/zootsuitproductions/Dannys-Java-Project) by Danny Shrestha and Danny Santana. 
+* [Kevin/Alex Ruby Project](https://github.com/0AYU0/Kevin-and-Alex-Ruby) by Kevin Lin and Alexander Yu
